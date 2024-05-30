@@ -1,2 +1,2 @@
-# tokyo_olympic
-Repository für die Quelldaten des Azure Repositories
+# tokyo-olympic-azure-data-engineering-project
+tokyo-olympic-azure-data-engineering-project
